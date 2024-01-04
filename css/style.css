@@ -117,7 +117,7 @@ body {
 /* Cursor */
 .cursor {
   position: fixed;
-  background-color: blue;
+  background-color: #9305ff;
   width: 6px;
   height: 6px;
   border-radius: 100%;
@@ -143,7 +143,7 @@ body {
   left: -7px;
   bottom: -7px;
   right: -7px;
-  border: 1px solid blue;
+  border: 1px solid #9305ff;
   border-radius: 50%;
 }
 
@@ -165,7 +165,7 @@ body {
 
 .cursor-follower {
   position: fixed;
-  background-color: blue;
+  background-color: #9305ff;
   opacity: 0.30;
   width: 33px;
   height: 33px;
