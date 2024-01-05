@@ -1165,8 +1165,8 @@ function pureFadeOut(e) {
     }
 
     initCookieConsient() {
-      const purecookieDesc = "In order to provide you a personalized shopping experience, our site uses cookies. By continuing to use this site, you are agreeing to our cookie policy.",
-      purecookieButton = "Accept";
+      const purecookieDesc = "Para brindarle una experiencia de compra personalizada, nuestro sitio utiliza cookies. Al continuar utilizando este sitio, usted acepta nuestra política de cookies.",
+      purecookieButton = "Aceptar";
 
       function pureFadeIn(e, o) {
         var i = document.getElementById(e);
